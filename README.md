@@ -1,4 +1,4 @@
-# Hello there, I am Fernando.
+# Hello there.
 
 Desenvolvedor focado na interseção entre **desenvolvimento web** e **inteligência artificial aplicada**. Trabalho com automação de processos, integração de APIs e construção de aplicações modernas — sempre com foco em resolver problemas reais de negócio.
 
